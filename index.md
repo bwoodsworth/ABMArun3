@@ -1,7 +1,7 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
   
-Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more. (MAIN PAGE)
+Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more. (MAIN PAGE - 3)
 
 ## WHAT TO EXPECT
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
