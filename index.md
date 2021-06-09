@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# AGENT-BASED MODELING FOR ARCHAEOLOGY
+Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
+  
+Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more. (MAIN PAGE)
 
-You can use the [editor on GitHub](https://github.com/bwoodsworth/ABMArun3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## WHAT TO EXPECT
+Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Table of Contents** 
+[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-### Markdown
+### **0: The art and science of building societies in silico**
+[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **Part 1: Learning to walk** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-```markdown
-Syntax highlighted code block
+*1.1:* The foundational steps of building an agent-based model
 
-# Header 1
-## Header 2
-### Header 3
+*1.2:* Trading up to complex models of economic interactions
 
-- Bulleted
-- List
+*1.3:* Reaping the rewards: addressing archaeological questions
 
-1. Numbered
-2. List
+### **Part 2: Learning to run** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-**Bold** and _Italic_ and `Code` text
+*2.1:* Mobility algorithms: How does movement leave its mark?
 
-[Link](url) and ![Image](src)
-```
+*2.2:* Exchange algorithms: How do people trade in goods, ideas, and pathogens?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
 
-### Jekyll Themes
+### **Part 3: Learning to fly** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bwoodsworth/ABMArun3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*3.1:* Modeling with spatial data: Bringing the GIS world to ABM
 
-### Support or Contact
+*3.2:* Modeling with relational data: Relationships and exchange using network science
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*3.3:* Data analysis: Leveraging data science to explore ABM results
+
+### **4.0: Good models move science forward** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
+
+## AUTHORS
+
+**STEFANI CRABTREE**
+
+Stefani is a computational archaeologist, field archaeologist, complexity scientist and ethnographer. In addition to being a Complexity Postdoctoral Fellow at the Santa Fe Institute she is currently a fellow of the Center for Research and Interdisciplinarity in Paris, France, holds a position at Utah State University in the Department for Environment and Society, and is a research fellow at Crow Canyon Archaeological Center. Prior to joining SFI, she was a post-doctoral scholar in the Human Environmental Dynamics laboratory at the Pennsylvania State University. In 2016 she was awarded two PhDs, one in anthropology at Washington State University under the direction of Tim Kohler, the other at the Maison des Sciences de l’Homme et Environnement at the Université de Franche-Comté under the co-direction of Laure Nuninger and François Favory. Stefani’s interests lie in agent-based modeling, food web modeling, and social network analysis. Her dissertation focused on both the Ancestral Pueblo U.S. Southwest and the Bronze Age to Iron Age transition in southern France. She additionally co-directs a project in Northern Mongolia with Dr. Julia Clark.
+
+**IZA ROMANOWSKA**
+
+AIAS-COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus University, Denmark, Previously: Senior Researcher at the Barcelona Supercomputing Center
+Iza works within the broad subject of Complexity Science and Archaeological Computing. In her research she uses simulation techniques, especially agent-based modelling, to investigate past processes such as the first human dispersal almost 2 million years ago and the development of the extensive trade networks in the Roman Empire.
+Specialties:  Agent Based Modelling, Simulation, Data Analysis, Complexity Science,  Palaeolithic Archaeology, Human Origins, Lithic Analysis, Roman Trade
+
+**COLIN D. WREN**
+
+Colin D. Wren is an archaeologist who joined the Department of Anthropology at UCCS in 2015. His training has included a mix of recent northeastern North America (sub-arctic Quebec, 400-4500 years ago) and much older African and Western European archaeology (up to 1.8 million years ago). He has published on various case studies examining the interactions between human society and the environments at local and much broader continental scales. Dr. Wren is interested in reconstructing past mobility behavior, the evolution of complex cognition, human-environment interactions, agent-based modeling, GIS-based landscape archaeology, and more specifically, the role of human perception of the environment in mobility and dispersal. Dr. Wren's on-going projects include models of South African foraging behavior during periods relevant to the evolution of Homo sapiens and the impacts of climatic variability during the Last Glacial Maximum (ca. 20 thousand years ago) on foraging behavior in Western Europe.
+
+
+
+
